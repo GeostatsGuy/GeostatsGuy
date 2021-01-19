@@ -11,7 +11,7 @@ I'm Michael Pyrcz (GeostatsGuy), a professore teaching and conducting reseach in
 ----
 
 <img src="https://github-readme-stats.vercel.app/api?username=GeostatstGuy&show_icons=true" alt=GeostatsGuy />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=GeostatsGuy" alt="santiagomota" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GeostatsGuy" alt="GeostatsGuy" /> </p>
 
 <!--
 **GeostatsGuy/GeostatsGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
