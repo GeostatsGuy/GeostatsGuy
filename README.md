@@ -5,7 +5,11 @@ I'm Michael Pyrcz (GeostatsGuy), a professore teaching and conducting reseach in
 <a href="https://www.linkedin.com/in/michael-pyrcz-61a648a1/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-039BE5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michael-pyrcz-61a648a1/" alt="Michael Pyrcz"/></a>
 <a href="https://twitter.com/GeostatsGuy" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-A7C0FF?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/GeostatsGuy" alt="GeostatsGuy"/></a>
 <a href="https://github.com/GeostatsGuy?tab=repositories" target="blank"><img align="center" src="https://img.shields.io/badge/-Repositories-828091?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/GeostatsGuy" alt="GeostatsGuy"/></a>
-<a href="https://youtube.com/GeostatsGuyLectures?tab=repositories" target="blank"><img align="center" src="https://img.shields.io/badge/-Repositories-828091?style=for-the-badge&logo=YouTube&logoColor=white&link=https://youtube.com/GeostatsGuyLectures" alt="GeostatsGuy"/></a>
+<a href="https://youtube.com/GeostatsGuyLectures?tab=repositories" target="blank"><img align="center" src="https://img.shields.io/badge/-Repositories-828091?style=for-the-badge&logo=YouTube&logoColor=red&link=https://youtube.com/GeostatsGuyLectures" alt="GeostatsGuy"/></a>
+
+#### Contact or Follow Me here :point_down:
+[![GitHub followers](https://img.shields.io/github/followers/GeostatsGuy.svg?style=social)](<https://github.com/GeostatsGuy> "GitHub Profile (here)")
+[![Twitter Follow](https://img.shields.io/twitter/follow/GeostatsGuy.svg?style=social)](<https://twitter.com/GeostatsGuy> "Twitter")
 
 </p>
 
