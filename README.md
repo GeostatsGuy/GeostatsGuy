@@ -1,24 +1,9 @@
 I'm Michael Pyrcz (GeostatsGuy), an associate professor working in Data Analytics, Geostatistics and Machine Learning at The University of Texas at Austin, Austin, Texas, USA.
 
-
-<p align="center">
-
-<a href="http://michaelpyrcz.com/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=website&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a> 
-
-<a href="https://www.linkedin.com/in/michael-pyrcz-61a648a1/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-039BE5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michael-pyrcz-61a648a1/" alt="Michael Pyrcz"/></a>
-<a href="https://twitter.com/GeostatsGuy" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-A7C0FF?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/GeostatsGuy" alt="GeostatsGuy"/></a>
-<a href="https://github.com/GeostatsGuy?tab=repositories" target="blank"><img align="center" src="https://img.shields.io/badge/-Repositories-828091?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/GeostatsGuy" alt="GeostatsGuy"/></a>
-<a href="https://youtube.com/GeostatsGuyLectures?tab=Channel" target="blank"><img align="center" src="https://img.shields.io/badge/-Channel-828091?style=for-the-badge&logo=YouTube&logoColor=red&link=https://youtube.com/GeostatsGuyLectures" alt="GeostatsGuy"/></a>
-
-
-
-## Links
-
 <p align="center">
   <a href="http://michaelpyrcz.com"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="website"/></a>
   <a href="https://twitter.com/GeostatsGuy"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
   <a href="https://www.youtube.com/GeostatsGuyLectures"><img src="https://img.icons8.com/color/96/000000/youtube.png" alt="youtube"/></a>
-  <a href="https://www.reddit.com/user/matyo91"><img src="https://img.icons8.com/color/96/000000/reddit.png" alt="reddit"/></a>
   <a href="https://www.linkedin.com/in/michael-pyrcz-61a648a1"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
 
 
