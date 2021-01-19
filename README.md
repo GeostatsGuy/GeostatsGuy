@@ -10,7 +10,6 @@ I'm Michael Pyrcz (GeostatsGuy), a professore teaching and conducting reseach in
 #### Contact or Follow Me here :point_down:
 [![GitHub followers](https://img.shields.io/github/followers/GeostatsGuy.svg?style=social)](<https://github.com/GeostatsGuy> "GitHub Profile (here)")
 [![Twitter Follow](https://img.shields.io/twitter/follow/GeostatsGuy.svg?style=social)](<https://twitter.com/GeostatsGuy> "Twitter")
-[![YouTube Subscribe](https://img.shields.io/youtube/GeostatsGuyLectures?sub_confirmation=1)](<https://youtube.com/GeostatsGuyLectures> "YouTube")
 
 </p>
 
