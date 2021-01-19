@@ -14,5 +14,5 @@ I'm Michael Pyrcz (GeostatsGuy), an associate professor working in Data Analytic
 
 
 <p  align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=matyo91.matyo91" alt="visitor badge"/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=GeostatsGuy.GeostatsGuy" alt="visitor badge"/>
 </p>
