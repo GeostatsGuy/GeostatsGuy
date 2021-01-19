@@ -13,6 +13,10 @@ I'm Michael Pyrcz (a.k.a. GeostatsGuy), an associate professor working in Data A
 [![GitHub followers](https://img.shields.io/github/followers/GeostatsGuy.svg?style=social)](<https://github.com/GeostatsGuy> "GitHub Profile (here)")
 [![Twitter Follow](https://img.shields.io/twitter/follow/GeostatsGuy.svg?style=social)](<https://twitter.com/GeostatsGuy> "Twitter")
 
+<script src="https://apis.google.com/js/platform.js"></script>
+
+<div class="g-ytsubscribe" data-channelid="UCLqEr-xV-ceHdXXXrTId5ig" data-layout="default" data-count="default"></div>
+
 
 <p  align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=GeostatsGuy.GeostatsGuy" alt="visitor badge"/>
