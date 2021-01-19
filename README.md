@@ -9,11 +9,8 @@ I'm Michael Pyrcz (a.k.a. GeostatsGuy), an associate professor working in Data A
   <a href="https://www.linkedin.com/in/michael-pyrcz-61a648a1"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://www.github.com/GeostatsGuy"><img src="https://img.icons8.com/color/96/000000/github.png" alt="linkedin"/></a>
 
+<img src="https://visitor-badge.glitch.me/badge?page_id=GeostatsGuy.GeostatsGuy" alt="visitor badge"/>
 
-
-#### Check out my course content and follow me on:
-[![GitHub followers](https://img.shields.io/github/followers/GeostatsGuy.svg?style=social)](<https://github.com/GeostatsGuy> "GitHub Profile (here)")
-[![Twitter Follow](https://img.shields.io/twitter/follow/GeostatsGuy.svg?style=social)](<https://twitter.com/GeostatsGuy> "Twitter")
 
 <p  align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=GeostatsGuy.GeostatsGuy" alt="visitor badge"/>
