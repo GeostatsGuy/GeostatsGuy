@@ -1,4 +1,4 @@
-[![image alt <](http://img.youtube.com/vi/6-BB1eqRp4o/0.jpg)](http://www.youtube.com/watch?v=6-BB1eqRp4o "Video Title") 
+[![image alt <](http://img.youtube.com/vi/6-BB1eqRp4o/0.jpg | width=100)](http://www.youtube.com/watch?v=6-BB1eqRp4o "Video Title") 
 
 I'm Michael Pyrcz (a.k.a. GeostatsGuy), an associate professor working in Data Analytics, Geostatistics and Machine Learning at The University of Texas at Austin, Austin, Texas, USA. I share all of my university content to support my students, potential students and working professionals interested to learn about data science. I have a lot of [well-documented workflows](https://github.com/GeostatsGuy/Resources) in Python, R (and even Excel) in my repositories.  
 
