@@ -1,6 +1,6 @@
 [<img align="left" width="33%" src="http://img.youtube.com/vi/6-BB1eqRp4o/0.jpg">](http://www.youtube.com/watch?v=6-BB1eqRp4o "Video Title") 
 
-I'm Michael Pyrcz (a.k.a. GeostatsGuy), an associate professor working in Data Analytics, Geostatistics and Machine Learning at The University of Texas at Austin, Austin, Texas, USA. I share all of my university content to support my students, potential students and working professionals interested to learn about data science. I have a lot of [well-documented workflows](https://github.com/GeostatsGuy/Resources) in Python, R (and even Excel) in my repositories. 
+I'm Michael Pyrcz (a.k.a. GeostatsGuy), an associate professor working in Data Analytics, Geostatistics and Machine Learning at The University of Texas at Austin, Austin, Texas, USA. I share all of my university content to support my students, potential students and working professionals interested to learn about data science. I have a lot of [well-documented workflows](https://github.com/GeostatsGuy/Resources) in Python, R (and even Excel) in my repositories and check out my lectures on my YouTube channel and daily Tweets with resources.
 
 <p align="center">
   <a href="http://michaelpyrcz.com"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="website"/></a>
