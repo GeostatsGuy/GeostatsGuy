@@ -12,13 +12,7 @@ I'm Michael Pyrcz (GeostatsGuy), an associate professor working in Data Analytic
 [![GitHub followers](https://img.shields.io/github/followers/GeostatsGuy.svg?style=social)](<https://github.com/GeostatsGuy> "GitHub Profile (here)")
 [![Twitter Follow](https://img.shields.io/twitter/follow/GeostatsGuy.svg?style=social)](<https://twitter.com/GeostatsGuy> "Twitter")
 
+
+<p  align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=matyo91.matyo91" alt="visitor badge"/>
 </p>
-
-----
-
-<img src="https://github-readme-stats.vercel.app/api?username=GeostatsGuy&show_icons=true" alt=GeostatsGuy />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=GeostatsGuy" alt="GeostatsGuy" /> </p>
-
-<!--
-**GeostatsGuy/GeostatsGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
