@@ -5,7 +5,7 @@ I'm Michael Pyrcz (a.k.a. GeostatsGuy), an associate professor working in Data A
   <a href="https://twitter.com/GeostatsGuy"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
   <a href="https://www.youtube.com/GeostatsGuyLectures"><img src="https://img.icons8.com/color/96/000000/youtube.png" alt="youtube"/></a>
   <a href="https://www.linkedin.com/in/michael-pyrcz-61a648a1"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-  <a href="https://www.linkedin.com/in/michael-pyrcz-61a648a1"><img src="https://img.icons8.com/color/96/000000/github.png" alt="linkedin"/></a>
+  <a href="https://www.github.com/GeostatsGuy"><img src="https://img.icons8.com/color/96/000000/github.png" alt="linkedin"/></a>
 
 
 
