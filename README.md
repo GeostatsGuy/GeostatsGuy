@@ -1,4 +1,4 @@
-I'm Michael Pyrcz (GeostatsGuy), a professore teaching and conducting reseach in Data Analytics, Geostatistics and Machine Learning at The University of Texas at Austin, Austin, Texas, USA.  
+I'm Michael Pyrcz (GeostatsGuy), an associate professor working in Data Analytics, Geostatistics and Machine Learning at The University of Texas at Austin, Austin, Texas, USA.
 
 
 <p align="center">
