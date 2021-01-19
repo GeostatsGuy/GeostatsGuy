@@ -2,10 +2,12 @@ I'm Michael Pyrcz (GeostatsGuy), an associate professor working in Data Analytic
 
 
 <p align="center">
+<a href="https://www.michaelpyrcz/" target="blank"><img align="center" src="https://img.shields.io/badge/-HomePage-039BE5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.michaelpyrcz.com/" alt="Michael Pyrcz"/></a>
 <a href="https://www.linkedin.com/in/michael-pyrcz-61a648a1/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-039BE5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michael-pyrcz-61a648a1/" alt="Michael Pyrcz"/></a>
 <a href="https://twitter.com/GeostatsGuy" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-A7C0FF?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/GeostatsGuy" alt="GeostatsGuy"/></a>
 <a href="https://github.com/GeostatsGuy?tab=repositories" target="blank"><img align="center" src="https://img.shields.io/badge/-Repositories-828091?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/GeostatsGuy" alt="GeostatsGuy"/></a>
 <a href="https://youtube.com/GeostatsGuyLectures?tab=Channel" target="blank"><img align="center" src="https://img.shields.io/badge/-Channel-828091?style=for-the-badge&logo=YouTube&logoColor=red&link=https://youtube.com/GeostatsGuyLectures" alt="GeostatsGuy"/></a>
+
 
 #### Check out my course content and follow me on:
 [![GitHub followers](https://img.shields.io/github/followers/GeostatsGuy.svg?style=social)](<https://github.com/GeostatsGuy> "GitHub Profile (here)")
