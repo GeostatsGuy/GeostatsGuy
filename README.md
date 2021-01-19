@@ -7,7 +7,7 @@ I'm Michael Pyrcz (GeostatsGuy), an associate professor working in Data Analytic
 <a href="https://github.com/GeostatsGuy?tab=repositories" target="blank"><img align="center" src="https://img.shields.io/badge/-Repositories-828091?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/GeostatsGuy" alt="GeostatsGuy"/></a>
 <a href="https://youtube.com/GeostatsGuyLectures?tab=Channel" target="blank"><img align="center" src="https://img.shields.io/badge/-Channel-828091?style=for-the-badge&logo=YouTube&logoColor=red&link=https://youtube.com/GeostatsGuyLectures" alt="GeostatsGuy"/></a>
 
-#### Contact or Follow Me here :point_down:
+#### Check out my course content and follow me on:
 [![GitHub followers](https://img.shields.io/github/followers/GeostatsGuy.svg?style=social)](<https://github.com/GeostatsGuy> "GitHub Profile (here)")
 [![Twitter Follow](https://img.shields.io/twitter/follow/GeostatsGuy.svg?style=social)](<https://twitter.com/GeostatsGuy> "Twitter")
 
