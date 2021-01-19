@@ -10,7 +10,7 @@ I'm Michael Pyrcz (GeostatsGuy), a professore teaching and conducting reseach in
 
 ----
 
-<img src="https://github-readme-stats.vercel.app/api?username=GeostatstGuy&show_icons=true" alt=GeostatsGuy />
+<img src="https://github-readme-stats.vercel.app/api?username=GeostatsGuy&show_icons=true" alt=GeostatsGuy />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GeostatsGuy" alt="GeostatsGuy" /> </p>
 
 <!--
