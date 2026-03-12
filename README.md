@@ -22,6 +22,13 @@ I have many **well-documented workflows** in Python, R (and even Excel) across m
 
 I also share resources and positivity daily on Twitter.
 
+  <!-- E-book links -->
+  <strong>My Free E-Books:</strong>
+  <ul style="list-style:none; padding-left:0; margin:2px 0 0 0; text-align:left;">
+    <li style="margin:2px 0;"><a href="https://geostatsguy.github.io/GeostatsPyDemos_Book/intro.html" target="_blank">Applied Geostatistics</a></li>
+    <li style="margin:2px 0;"><a href="https://geostatsguy.github.io/MachineLearningDemos_Book/intro.html" target="_blank">Applied Machine Learning</a></li>
+  </ul>
+
 </td>
 
 <td width="15%" align="center" style="line-height:1.2;">
@@ -55,13 +62,6 @@ I also share resources and positivity daily on Twitter.
   </a>
 
   <br>
-
-  <!-- E-book links -->
-  <strong>My Free E-Books:</strong>
-  <ul style="list-style:none; padding-left:0; margin:2px 0 0 0; text-align:left;">
-    <li style="margin:2px 0;"><a href="https://geostatsguy.github.io/GeostatsPyDemos_Book/intro.html" target="_blank">Applied Geostatistics</a></li>
-    <li style="margin:2px 0;"><a href="https://geostatsguy.github.io/MachineLearningDemos_Book/intro.html" target="_blank">Applied Machine Learning</a></li>
-  </ul>
 
 </td>
 
