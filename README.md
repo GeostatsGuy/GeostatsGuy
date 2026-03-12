@@ -37,25 +37,25 @@ I also share resources and positivity daily on Twitter.
     <img width="50" src="https://img.icons8.com/fluent/96/000000/domain.png"><br>Website
   </a>
 
-  <br>
+  <br> <br>
 
   <a href="https://twitter.com/GeostatsGuy">
     <img width="50" src="https://img.icons8.com/color/96/000000/twitter-squared.png"><br>Twitter
   </a>
 
-  <br>
+  <br> <br>
 
   <a href="https://www.youtube.com/GeostatsGuyLectures">
     <img width="50" src="https://img.icons8.com/color/96/000000/youtube.png"><br>YouTube
   </a>
 
-  <br>
+  <br> <br>
 
   <a href="https://www.linkedin.com/in/michael-pyrcz-61a648a1">
     <img width="50" src="https://img.icons8.com/color/96/000000/linkedin.png"><br>LinkedIn
   </a>
 
-  <br>
+  <br> <br>
 
   <a href="https://github.com/GeostatsGuy">
     <img width="50" src="https://img.icons8.com/color/96/000000/github.png"><br>GitHub
