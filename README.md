@@ -1,7 +1,6 @@
-<table>
+<table border="0" cellspacing="0" cellpadding="10">
 <tr>
-
-<td width="45%">
+<td width="45%" border="0">
 
 <a href="http://www.youtube.com/watch?v=6-BB1eqRp4o">
 <img src="http://img.youtube.com/vi/6-BB1eqRp4o/0.jpg" width="100%">
