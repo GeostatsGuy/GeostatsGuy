@@ -54,6 +54,15 @@ I also share resources and positivity daily on Twitter.
 <img width="50" src="https://img.icons8.com/color/96/000000/github.png"><br>GitHub
 </a>
 
+<br><br>
+
+<!-- E-book links -->
+<strong>My Free E-Books:</strong>
+<ul style="list-style:none; padding-left:0; text-align:left;">
+  <li><a href="https://geostatsguy.github.io/GeostatsPyDemos_Book/intro.html" target="_blank">• Applied Geostatistics in Python</a></li>
+  <li><a href="https://geostatsguy.github.io/MachineLearningDemos_Book/intro.html" target="_blank">• Applied Machine Learning in Python</a></li>
+</ul>
+
 </td>
 
 </tr>
