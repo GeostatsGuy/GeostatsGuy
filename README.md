@@ -28,36 +28,31 @@ I also share resources and positivity daily on Twitter.
 <td width="10%" align="center">
 
 <a href="http://michaelpyrcz.com">
-<img width="50" src="https://img.icons8.com/fluent/96/000000/domain.png"><br>
-Website
+<img width="50" src="https://img.icons8.com/fluent/96/000000/domain.png"><br>Website
 </a>
 
 <br><br>
 
 <a href="https://twitter.com/GeostatsGuy">
-<img width="50" src="https://img.icons8.com/color/96/000000/twitter-squared.png"><br>
-Twitter
+<img width="50" src="https://img.icons8.com/color/96/000000/twitter-squared.png"><br>Twitter
 </a>
 
 <br><br>
 
 <a href="https://www.youtube.com/GeostatsGuyLectures">
-<img width="50" src="https://img.icons8.com/color/96/000000/youtube.png"><br>
-YouTube
+<img width="50" src="https://img.icons8.com/color/96/000000/youtube.png"><br>YouTube
 </a>
 
 <br><br>
 
 <a href="https://www.linkedin.com/in/michael-pyrcz-61a648a1">
-<img width="50" src="https://img.icons8.com/color/96/000000/linkedin.png"><br>
-LinkedIn
+<img width="50" src="https://img.icons8.com/color/96/000000/linkedin.png"><br>LinkedIn
 </a>
 
 <br><br>
 
 <a href="https://github.com/GeostatsGuy">
-<img width="50" src="https://img.icons8.com/color/96/000000/github.png"><br>
-GitHub
+<img width="50" src="https://img.icons8.com/color/96/000000/github.png"><br>GitHub
 </a>
 
 </td>
