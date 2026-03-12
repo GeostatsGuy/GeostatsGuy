@@ -13,7 +13,7 @@
 
 </td>
 
-<td width="40%">
+<td width="45%">
 
 I'm **Michael Pyrcz (GeostatsGuy)**, a professor working in **Data Analytics, Geostatistics and Machine Learning** at **The University of Texas at Austin**, Austin, Texas, USA and a Ukrainian Canadian.
 
@@ -25,7 +25,7 @@ I also share resources and positivity daily on Twitter.
 
 </td>
 
-<td width="15%" align="center">
+<td width="10%" align="center">
 
 <a href="http://michaelpyrcz.com">
 <img width="50" src="https://img.icons8.com/fluent/96/000000/domain.png"><br>
