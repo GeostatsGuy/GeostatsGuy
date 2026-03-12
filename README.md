@@ -29,6 +29,13 @@ I also share resources and positivity daily on Twitter.
     <li style="margin:2px 0;"><a href="https://geostatsguy.github.io/MachineLearningDemos_Book/intro.html" target="_blank">Applied Machine Learning in Python</a></li>
   </ul>
 
+  <!-- lecture links -->
+  <strong>My Full Courses:</strong>
+  <ul style="list-style:none; padding-left:0; margin:2px 0 0 0; text-align:left;">
+    <li style="margin:2px 0;"><a href="https://www.youtube.com/playlist?list=PLG19vXLQHvSB-D4XKYieEku9GQMQyAzjJ" target="_blank">Data Analytics and Geostatistics</a></li>
+    <li style="margin:2px 0;"><a href="https://www.youtube.com/playlist?list=PLG19vXLQHvSC2ZKFIkgVpI9fCjkN38kwf" target="_blank">Machine Learning</a></li>
+  </ul>
+
 </td>
 
 <td width="15%" align="center" style="line-height:1.2;">
