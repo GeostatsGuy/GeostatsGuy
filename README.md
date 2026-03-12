@@ -26,42 +26,42 @@ I also share resources and positivity daily on Twitter.
 
 <td width="15%" align="center" style="line-height:1.2;">
 
-<a href="http://michaelpyrcz.com">
-<img width="50" src="https://img.icons8.com/fluent/96/000000/domain.png"><br>Website
-</a>
+  <a href="http://michaelpyrcz.com">
+    <img width="50" src="https://img.icons8.com/fluent/96/000000/domain.png"><br>Website
+  </a>
 
-<br><br>
+  <br>
 
-<a href="https://twitter.com/GeostatsGuy">
-<img width="50" src="https://img.icons8.com/color/96/000000/twitter-squared.png"><br>Twitter
-</a>
+  <a href="https://twitter.com/GeostatsGuy">
+    <img width="50" src="https://img.icons8.com/color/96/000000/twitter-squared.png"><br>Twitter
+  </a>
 
-<br><br>
+  <br>
 
-<a href="https://www.youtube.com/GeostatsGuyLectures">
-<img width="50" src="https://img.icons8.com/color/96/000000/youtube.png"><br>YouTube
-</a>
+  <a href="https://www.youtube.com/GeostatsGuyLectures">
+    <img width="50" src="https://img.icons8.com/color/96/000000/youtube.png"><br>YouTube
+  </a>
 
-<br><br>
+  <br>
 
-<a href="https://www.linkedin.com/in/michael-pyrcz-61a648a1">
-<img width="50" src="https://img.icons8.com/color/96/000000/linkedin.png"><br>LinkedIn
-</a>
+  <a href="https://www.linkedin.com/in/michael-pyrcz-61a648a1">
+    <img width="50" src="https://img.icons8.com/color/96/000000/linkedin.png"><br>LinkedIn
+  </a>
 
-<br><br>
+  <br>
 
-<a href="https://github.com/GeostatsGuy">
-<img width="50" src="https://img.icons8.com/color/96/000000/github.png"><br>GitHub
-</a>
+  <a href="https://github.com/GeostatsGuy">
+    <img width="50" src="https://img.icons8.com/color/96/000000/github.png"><br>GitHub
+  </a>
 
-<br><br>
+  <br>
 
-<!-- E-book links -->
-<strong>My Free E-Books:</strong>
-<ul style="list-style:none; padding-left:0; text-align:left;">
-  <li><a href="https://geostatsguy.github.io/GeostatsPyDemos_Book/intro.html" target="_blank">• Applied Geostatistics in Python</a></li>
-  <li><a href="https://geostatsguy.github.io/MachineLearningDemos_Book/intro.html" target="_blank">• Applied Machine Learning in Python</a></li>
-</ul>
+  <!-- E-book links -->
+  <strong>My Free E-Books:</strong>
+  <ul style="list-style:none; padding-left:0; margin:2px 0 0 0; text-align:left;">
+    <li style="margin:2px 0;"><a href="https://geostatsguy.github.io/GeostatsPyDemos_Book/intro.html" target="_blank">• Applied Geostatistics in Python</a></li>
+    <li style="margin:2px 0;"><a href="https://geostatsguy.github.io/MachineLearningDemos_Book/intro.html" target="_blank">• Applied Machine Learning in Python</a></li>
+  </ul>
 
 </td>
 
