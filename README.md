@@ -34,6 +34,7 @@ I also share resources and positivity daily on Twitter.
   <ul style="list-style:none; padding-left:0; margin:2px 0 0 0; text-align:left;">
     <li style="margin:2px 0;"><a href="https://www.youtube.com/playlist?list=PLG19vXLQHvSB-D4XKYieEku9GQMQyAzjJ" target="_blank">Data Analytics and Geostatistics</a></li>
     <li style="margin:2px 0;"><a href="https://www.youtube.com/playlist?list=PLG19vXLQHvSC2ZKFIkgVpI9fCjkN38kwf" target="_blank">Machine Learning</a></li>
+    <li style="margin:2px 0;"><a href="https://www.youtube.com/playlist?list=PLG19vXLQHvSDUmEOmBoaxGbFAbvaLdfx4" target="_blank">Spatial Data Analytics and Modeling</a></li>
   </ul>
 
 </td>
