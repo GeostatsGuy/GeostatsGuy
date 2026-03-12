@@ -24,7 +24,7 @@ I also share resources and positivity daily on Twitter.
 
 </td>
 
-<td width="15%" align="center">
+<td width="15%" align="center" style="line-height:1.2;">
 
 <a href="http://michaelpyrcz.com">
 <img width="50" src="https://img.icons8.com/fluent/96/000000/domain.png"><br>Website
