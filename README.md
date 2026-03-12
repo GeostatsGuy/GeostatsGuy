@@ -1,18 +1,66 @@
-[<img align="left" width="60%" src="http://img.youtube.com/vi/6-BB1eqRp4o/0.jpg">](http://www.youtube.com/watch?v=6-BB1eqRp4o "Video Title") 
+<table>
+<tr>
 
-I'm Michael Pyrcz (a.k.a. GeostatsGuy), a professor working in Data Analytics, Geostatistics and Machine Learning at The University of Texas at Austin, Austin, Texas, USA and a Ukrainian Canadian. I share all of my university content to support my students, potential students and working professionals interested to learn about data science. I have a lot of [well-documented workflows](https://github.com/GeostatsGuy/Resources) in Python, R (and even Excel) in my repositories, including all of the hands-on exercises and demonstrations for all of my lectures shared freely on my YouTube channel. Follow me on Twitter, where I share resources and positivity daily.
+<td width="30%">
 
-<p align="center">
-  <a href="http://michaelpyrcz.com"><img width="7%" src="https://img.icons8.com/fluent/96/000000/domain.png" alt="website"/></a>
-  <a href="https://twitter.com/GeostatsGuy"><img width="7%" src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
-  <a href="https://www.youtube.com/GeostatsGuyLectures"><img width="7%" src="https://img.icons8.com/color/96/000000/youtube.png" alt="youtube"/></a>
-  <a href="https://www.linkedin.com/in/michael-pyrcz-61a648a1"><img width="7%" src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-  <a href="https://www.github.com/GeostatsGuy"><img width="7%" src="https://img.icons8.com/color/96/000000/github.png" alt="linkedin"/></a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="%10" align="right" src="https://github-readme-stats.vercel.app/api?username=GeostatsGuy&hide_rank=true&count_private=true&show_icons=true&custom_title=GitHub%20Stats&disable_animations=true&theme=holi&card_width="%5" />
+<a href="http://www.youtube.com/watch?v=6-BB1eqRp4o">
+<img src="http://img.youtube.com/vi/6-BB1eqRp4o/0.jpg" width="100%">
 </a>
 
+</td>
 
+<td width="45%">
 
+I'm **Michael Pyrcz (GeostatsGuy)**, a professor working in **Data Analytics, Geostatistics and Machine Learning** at **The University of Texas at Austin**.
 
+I share all of my university content to support students, professionals, and anyone interested in **data science**.
+
+My repositories include **well-documented workflows** in Python, R (and even Excel), including the exercises and demonstrations used in my lectures on my YouTube channel.
+
+I also share resources and positivity daily on Twitter.
+
+</td>
+
+<td width="25%" align="center">
+
+<a href="http://michaelpyrcz.com">
+<img width="50" src="https://img.icons8.com/fluent/96/000000/domain.png"><br>
+Website
+</a>
+
+<br><br>
+
+<a href="https://twitter.com/GeostatsGuy">
+<img width="50" src="https://img.icons8.com/color/96/000000/twitter-squared.png"><br>
+Twitter
+</a>
+
+<br><br>
+
+<a href="https://www.youtube.com/GeostatsGuyLectures">
+<img width="50" src="https://img.icons8.com/color/96/000000/youtube.png"><br>
+YouTube
+</a>
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/michael-pyrcz-61a648a1">
+<img width="50" src="https://img.icons8.com/color/96/000000/linkedin.png"><br>
+LinkedIn
+</a>
+
+<br><br>
+
+<a href="https://github.com/GeostatsGuy">
+<img width="50" src="https://img.icons8.com/color/96/000000/github.png"><br>
+GitHub
+</a>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=GeostatsGuy&hide_rank=true&count_private=true&show_icons=true&custom_title=GitHub%20Stats&disable_animations=true&theme=holi&card_width=300"/>
+
+</td>
+
+</tr>
+</table>
