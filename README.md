@@ -1,7 +1,3 @@
-<!-- Header -->
-<h1>Michael Pyrcz — GeostatsGuy</h1>
-<h3>Data Analytics | Geostatistics | Machine Learning</h3>
-
 <!-- Main layout using flex -->
 <div style="display:flex; gap:20px; align-items:flex-start;">
 
