@@ -1,27 +1,31 @@
 <table>
 <tr>
 
-<td width="30%">
+<td width="45%">
 
 <a href="http://www.youtube.com/watch?v=6-BB1eqRp4o">
 <img src="http://img.youtube.com/vi/6-BB1eqRp4o/0.jpg" width="100%">
 </a>
 
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=GeostatsGuy&hide_rank=true&count_private=true&show_icons=true&custom_title=GitHub%20Stats&disable_animations=true&theme=holi&card_width=450"/>
+
 </td>
 
-<td width="45%">
+<td width="40%">
 
-I'm **Michael Pyrcz (GeostatsGuy)**, a professor working in **Data Analytics, Geostatistics and Machine Learning** at **The University of Texas at Austin**.
+I'm **Michael Pyrcz (GeostatsGuy)**, a professor working in **Data Analytics, Geostatistics and Machine Learning** at **The University of Texas at Austin**, Austin, Texas, USA and a Ukrainian Canadian.
 
-I share all of my university content to support students, professionals, and anyone interested in **data science**.
+I share all of my university content to support my students, potential students, and working professionals interested in learning data science.
 
-My repositories include **well-documented workflows** in Python, R (and even Excel), including the exercises and demonstrations used in my lectures on my YouTube channel.
+I have many **well-documented workflows** in Python, R (and even Excel) across my repositories, including the hands-on exercises and demonstrations for all of my lectures shared freely on my YouTube channel.
 
 I also share resources and positivity daily on Twitter.
 
 </td>
 
-<td width="25%" align="center">
+<td width="15%" align="center">
 
 <a href="http://michaelpyrcz.com">
 <img width="50" src="https://img.icons8.com/fluent/96/000000/domain.png"><br>
@@ -55,10 +59,6 @@ LinkedIn
 <img width="50" src="https://img.icons8.com/color/96/000000/github.png"><br>
 GitHub
 </a>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=GeostatsGuy&hide_rank=true&count_private=true&show_icons=true&custom_title=GitHub%20Stats&disable_animations=true&theme=holi&card_width=300"/>
 
 </td>
 
