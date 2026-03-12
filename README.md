@@ -1,77 +1,99 @@
-<table>
-<tr>
-<td width="0%">
+<!-- Header -->
+<h1>Michael Pyrcz — GeostatsGuy</h1>
+<h3>Data Analytics | Geostatistics | Machine Learning</h3>
 
-<a href="http://www.youtube.com/watch?v=6-BB1eqRp4o">
-<img src="http://img.youtube.com/vi/6-BB1eqRp4o/0.jpg" width="100%">
-</a>
+<!-- Responsive main container -->
+<div style="display:flex; flex-wrap:wrap; gap:20px; align-items:flex-start;">
 
-<br><br>
+  <!-- Left pane: YouTube + GitHub stats -->
+  <div style="flex:1 1 300px; min-width:250px; max-width:45%;">
+    <a href="http://www.youtube.com/watch?v=6-BB1eqRp4o">
+      <img src="http://img.youtube.com/vi/6-BB1eqRp4o/0.jpg" width="100%" alt="YouTube Video">
+    </a>
+    <br><br>
+    <img src="https://github-readme-stats.vercel.app/api?username=GeostatsGuy&hide_rank=true&count_private=true&show_icons=true&custom_title=GitHub%20Stats&disable_animations=true&theme=holi&card_width=450" width="100%" alt="GitHub Stats">
+  </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=GeostatsGuy&hide_rank=true&count_private=true&show_icons=true&custom_title=GitHub%20Stats&disable_animations=true&theme=holi&card_width=450"/>
+  <!-- Center pane: Bio + e-books + lecture links -->
+  <div style="flex:1 1 300px; min-width:250px; max-width:45%; line-height:1.5;">
 
-</td>
+    I'm <strong>Michael Pyrcz (GeostatsGuy)</strong>, a professor working in <strong>Data Analytics, Geostatistics and Machine Learning</strong> at <strong>The University of Texas at Austin</strong>, Austin, Texas, USA and a Ukrainian Canadian.
 
-<td width="40%">
+    <br><br>
 
-I'm **Michael Pyrcz (GeostatsGuy)**, a professor working in **Data Analytics, Geostatistics and Machine Learning** at **The University of Texas at Austin**, Austin, Texas, USA and a Ukrainian Canadian.
+    I share all of my university content to support my students, potential students, and working professionals interested in learning data science.
 
-I share all of my university content to support my students, potential students, and working professionals interested in learning data science.
+    <br><br>
 
-I have many **well-documented workflows** in Python, R (and even Excel) across my repositories, including the hands-on exercises and demonstrations for all of my lectures shared freely on my YouTube channel.
+    I have many <strong>well-documented workflows</strong> in Python, R (and even Excel) across my repositories, including the hands-on exercises and demonstrations for all of my lectures shared freely on my YouTube channel.
 
-I also share resources and positivity daily on Twitter.
+    <br><br>
 
-  <!-- E-book links -->
-  <strong>My Free E-Books:</strong>
-  <ul style="list-style:none; padding-left:0; margin:2px 0 0 0; text-align:left;">
-    <li style="margin:2px 0;"><a href="https://geostatsguy.github.io/GeostatsPyDemos_Book/intro.html" target="_blank">Applied Geostatistics in Python</a></li>
-    <li style="margin:2px 0;"><a href="https://geostatsguy.github.io/MachineLearningDemos_Book/intro.html" target="_blank">Applied Machine Learning in Python</a></li>
-  </ul>
+    I also share resources and positivity daily on Twitter.
 
-  <!-- lecture links -->
-  <strong>My Full Courses:</strong>
-  <ul style="list-style:none; padding-left:0; margin:2px 0 0 0; text-align:left;">
-    <li style="margin:2px 0;"><a href="https://www.youtube.com/playlist?list=PLG19vXLQHvSB-D4XKYieEku9GQMQyAzjJ" target="_blank">Data Analytics and Geostatistics</a></li>
-    <li style="margin:2px 0;"><a href="https://www.youtube.com/playlist?list=PLG19vXLQHvSC2ZKFIkgVpI9fCjkN38kwf" target="_blank">Machine Learning</a></li>
-    <li style="margin:2px 0;"><a href="https://www.youtube.com/playlist?list=PLG19vXLQHvSDUmEOmBoaxGbFAbvaLdfx4" target="_blank">Spatial Data Analytics and Modeling</a></li>
-  </ul>
+    <br><br>
 
-</td>
+    <!-- E-book links -->
+    <strong>My Free E-Books:</strong>
+    <ul style="list-style:none; padding-left:0; margin:2px 0 0 0;">
+      <li style="margin:2px 0;"><a href="https://geostatsguy.github.io/GeostatsPyDemos_Book/intro.html" target="_blank">• Applied Geostatistics in Python</a></li>
+      <li style="margin:2px 0;"><a href="https://geostatsguy.github.io/MachineLearningDemos_Book/intro.html" target="_blank">• Applied Machine Learning in Python</a></li>
+    </ul>
 
-<td width="15%" align="center" style="line-height:1.2;">
+    <br>
 
-  <a href="http://michaelpyrcz.com">
-    <img width="50" src="https://img.icons8.com/fluent/96/000000/domain.png">
-  </a>
+    <!-- Lecture links -->
+    <strong>My Full Courses:</strong>
+    <ul style="list-style:none; padding-left:0; margin:2px 0 0 0;">
+      <li style="margin:2px 0;"><a href="https://www.youtube.com/playlist?list=PLG19vXLQHvSB-D4XKYieEku9GQMQyAzjJ" target="_blank">• Data Analytics and Geostatistics</a></li>
+      <li style="margin:2px 0;"><a href="https://www.youtube.com/playlist?list=PLG19vXLQHvSC2ZKFIkgVpI9fCjkN38kwf" target="_blank">• Machine Learning</a></li>
+      <li style="margin:2px 0;"><a href="https://www.youtube.com/playlist?list=PLG19vXLQHvSDUmEOmBoaxGbFAbvaLdfx4" target="_blank">• Spatial Data Analytics and Modeling</a></li>
+    </ul>
 
-  <br> <br>
+  </div>
 
-  <a href="https://twitter.com/GeostatsGuy">
-    <img width="50" src="https://img.icons8.com/color/96/000000/twitter-squared.png">
-  </a>
+  <!-- Right pane: Social links -->
+  <div style="flex:1 1 200px; min-width:150px; max-width:25%; text-align:center; line-height:1.1;">
 
-  <br> <br>
+    <div style="margin-bottom:4px;">
+      <a href="http://michaelpyrcz.com">
+        <img width="50" src="https://img.icons8.com/fluent/96/000000/domain.png"><br>Website
+      </a>
+    </div>
 
-  <a href="https://www.youtube.com/GeostatsGuyLectures">
-    <img width="50" src="https://img.icons8.com/color/96/000000/youtube.png">
-  </a>
+    <div style="margin-bottom:4px;">
+      <a href="https://twitter.com/GeostatsGuy">
+        <img width="50" src="https://img.icons8.com/color/96/000000/twitter-squared.png"><br>Twitter
+      </a>
+    </div>
 
-  <br> <br>
+    <div style="margin-bottom:4px;">
+      <a href="https://www.youtube.com/GeostatsGuyLectures">
+        <img width="50" src="https://img.icons8.com/color/96/000000/youtube.png"><br>YouTube
+      </a>
+    </div>
 
-  <a href="https://www.linkedin.com/in/michael-pyrcz-61a648a1">
-    <img width="50" src="https://img.icons8.com/color/96/000000/linkedin.png">
-  </a>
+    <div style="margin-bottom:4px;">
+      <a href="https://www.linkedin.com/in/michael-pyrcz-61a648a1">
+        <img width="50" src="https://img.icons8.com/color/96/000000/linkedin.png"><br>LinkedIn
+      </a>
+    </div>
 
-  <br> <br>
+    <div style="margin-bottom:4px;">
+      <a href="https://github.com/GeostatsGuy">
+        <img width="50" src="https://img.icons8.com/color/96/000000/github.png"><br>GitHub
+      </a>
+    </div>
 
-  <a href="https://github.com/GeostatsGuy">
-    <img width="50" src="https://img.icons8.com/color/96/000000/github.png">
-  </a>
+    <br>
 
-  <br>
+    <!-- E-books also in right pane if you want -->
+    <strong>My Free E-Books:</strong>
+    <ul style="list-style:none; padding-left:0; margin:2px 0 0 0; text-align:left;">
+      <li style="margin:1px 0;"><a href="https://geostatsguy.github.io/GeostatsPyDemos_Book/intro.html" target="_blank">• Applied Geostatistics in Python</a></li>
+      <li style="margin:1px 0;"><a href="https://geostatsguy.github.io/MachineLearningDemos_Book/intro.html" target="_blank">• Applied Machine Learning in Python</a></li>
+    </ul>
 
-</td>
+  </div>
 
-</tr>
-</table>
+</div>
