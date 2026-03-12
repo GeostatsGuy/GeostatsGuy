@@ -48,7 +48,7 @@ I also share resources and positivity daily on Twitter.
   <br> <br>
 
   <a href="https://twitter.com/GeostatsGuy">
-    <img width="50" src="https://img.icons8.com/color/96/000000/twitter-squared.png"><br>
+    <img width="50" src="https://img.icons8.com/color/96/000000/twitter-squared.png">
   </a>
 
   <br> <br>
