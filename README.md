@@ -9,7 +9,7 @@ Follow me on Twitter, where I share resources and positivity daily.
 Check out all my free, online resources at:
 
 <p align="center">
-  <a href="http://michaelpyrcz.com"><img width="5%" src="https://img.icons8.com/windows/96/centralized-network.png" alt="inventory"/></a>
+  <a href="https://michaelpyrcz.com/my-resources"><img width="5%" src="https://img.icons8.com/windows/96/centralized-network.png" alt="inventory"/></a>
   <a href="http://michaelpyrcz.com"><img width="5%" src="https://img.icons8.com/windows/96/internet.png" alt="website"/></a>
   <a href="https://twitter.com/GeostatsGuy"><img width="5%" src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
   <a href="https://www.youtube.com/GeostatsGuyLectures"><img width="5%" src="https://img.icons8.com/color/96/000000/youtube.png" alt="youtube"/></a>
