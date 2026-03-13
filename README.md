@@ -8,5 +8,5 @@ I'm Michael Pyrcz (a.k.a. GeostatsGuy), a professor working in Data Analytics, G
   <a href="https://www.youtube.com/GeostatsGuyLectures"><img width="5%" src="https://img.icons8.com/color/96/000000/youtube.png" alt="youtube"/></a>
   <a href="https://www.linkedin.com/in/michael-pyrcz-61a648a1"><img width="5%" src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://www.github.com/GeostatsGuy"><img width="5%" src="https://img.icons8.com/color/96/000000/github.png" alt="linkedin"/></a>
-  <a href="https://geostatsguy.github.io/GeostatsPyDemos_Book/intro.html"><img width="5%" src="https://img.icons8.com/ios-filled/50/e-learning-2.png" alt="Geostats_ebook"/></a>
+  <a href="https://geostatsguy.github.io/GeostatsPyDemos_Book/intro.html"><img width="5%" src="https://img.icons8.com/office/40/e-learning-2.png" alt="Geostats_ebook"/></a>
   <a href="https://geostatsguy.github.io/MachineLearningDemos_Book/intro.html"><img width="5%" src="https://img.icons8.com/color/48/e-learning-2.png" alt="MachineLearning_ebook"/></a>
